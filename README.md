@@ -5,8 +5,6 @@ Hello! I'm João "Jo" Cassanji, from Brazil, a passionate Software Engineer with
 
 ## Skills 🛠️
 
-![Skills](insert_an_image_here_to_represent_your_skills.jpg)
-
 - ☁️ DevOps
 - 🌐 Web Development
 - 💻 Cloud Development
@@ -18,19 +16,9 @@ Hello! I'm João "Jo" Cassanji, from Brazil, a passionate Software Engineer with
 
 ![Technologies](insert_an_image_here_to_represent_the_tools_you_master.jpg)
 
-- 🧩 IDEs: [List your favorite IDEs]
-- 🎨 Design Tools: [Tools you design with]
-- 📦 Frameworks: [Frameworks you're proficient in]
-- ☁️ Cloud Services: [Cloud platforms you use]
-
-## Tools 🔧
-
-![Tools](insert_an_image_here_to_represent_the_tools_you_master.jpg)
-
-- 🧩 IDEs: [List your favorite IDEs]
-- 🎨 Design Tools: [Tools you design with]
-- 📦 Frameworks: [Frameworks you're proficient in]
-- ☁️ Cloud Services: [Cloud platforms you use]
+- 🧩 Programming Languages: Javascript, Typescript, Lua, Go
+- 📦 Frameworks: Node, React, Gin
+- ☁️ Cloud Providers: AWS, Azure
 
 ## What I Love Outside of Work 🌟
 
