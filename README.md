@@ -1,21 +1,18 @@
 ## About Me
 ![Profile Picture](insert_your_profile_picture_url_here.jpg)
 
-Hello! I'm [Your Name], a passionate Software Engineer with a love for cloud development.🚀
-- 💻 Full-Stack Developer
-- 🎨 UI/UX Designer
-- 🧠 Problem Solver
+Hello! I'm João "Jo" Cassanji, from Brazil, a passionate Software Engineer with a love for cloud development.
 
 ## Skills 🛠️
 
 ![Skills](insert_an_image_here_to_represent_your_skills.jpg)
 
+- ☁️ DevOps
 - 🌐 Web Development
-- 📱 Mobile App Development
-- 💡 Creative Design
+- 💻 Cloud Development
+- 🎨 UI/UX Designer
+- 🧠 Problem Solver
 - 🚀 Project Management
-- 📈 Data Analysis
-- 🤖 AI & Machine Learning
 
 ## Technologies🧰
 
