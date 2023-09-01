@@ -34,5 +34,3 @@ Outside the professional world, you can find me:
 I'm always open to meeting new people and collaborating on exciting projects. If you think I could be a valuable addition to your network, don't hesitate to connect with me!
 
 If you have any questions, interesting projects, or just want to have a chat, feel free to drop me a message. Let's work together to achieve great things! 🚀
-
-[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](insert_your_linkedin_profile_url_here)
