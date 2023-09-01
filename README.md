@@ -1,30 +1,39 @@
-# Welcome to My LinkedIn! 😄
-
 ## About Me
 ![Profile Picture](insert_your_profile_picture_url_here.jpg)
 
-Hello! I'm João "Jo" Cassanji, a passionate Software Engineer with a love for cloud development.🚀
+Hello! I'm [Your Name], a passionate Software Engineer with a love for cloud development.🚀
+- 💻 Full-Stack Developer
+- 🎨 UI/UX Designer
+- 🧠 Problem Solver
 
-## My Skills 🛠️
+## Skills 🛠️
 
 ![Skills](insert_an_image_here_to_represent_your_skills.jpg)
 
-- **Web Development:** Expert in [Technology or Language].
-- **UI/UX Design:** Crafting amazing user experiences.
-- **Project Management:** Keeping everything on track.
-- **Digital Marketing:** Boosting visibility and engagement.
-- **Problem Solving:** Tackling challenges creatively.
-- **Teamwork:** Collaboration is the key to success.
+- 🌐 Web Development
+- 📱 Mobile App Development
+- 💡 Creative Design
+- 🚀 Project Management
+- 📈 Data Analysis
+- 🤖 AI & Machine Learning
 
-## Tools I Master 🧰
+## Technologies🧰
+
+![Technologies](insert_an_image_here_to_represent_the_tools_you_master.jpg)
+
+- 🧩 IDEs: [List your favorite IDEs]
+- 🎨 Design Tools: [Tools you design with]
+- 📦 Frameworks: [Frameworks you're proficient in]
+- ☁️ Cloud Services: [Cloud platforms you use]
+
+## Tools 🔧
 
 ![Tools](insert_an_image_here_to_represent_the_tools_you_master.jpg)
 
-- **IDEs:** [List the IDEs you use].
-- **Design:** [Design Tools].
-- **Project Management:** [Management Tools].
-- **Marketing:** [Marketing Platforms you're proficient in].
-- **Communication:** [Communication Tools].
+- 🧩 IDEs: [List your favorite IDEs]
+- 🎨 Design Tools: [Tools you design with]
+- 📦 Frameworks: [Frameworks you're proficient in]
+- ☁️ Cloud Services: [Cloud platforms you use]
 
 ## What I Love Outside of Work 🌟
 
@@ -45,4 +54,4 @@ I'm always open to meeting new people and collaborating on exciting projects. If
 
 If you have any questions, interesting projects, or just want to have a chat, feel free to drop me a message. Let's work together to achieve great things! 🚀
 
-[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)]((https://www.linkedin.com/in/joaocassanji/)https://www.linkedin.com/in/joaocassanji/)
+[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](insert_your_linkedin_profile_url_here)
