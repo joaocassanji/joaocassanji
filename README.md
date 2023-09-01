@@ -3,7 +3,7 @@
 ## About Me
 ![Profile Picture](insert_your_profile_picture_url_here.jpg)
 
-Hello! I'm [Your Name], a passionate Software Engineer  with a love for cloud development.🚀 With a curious mind and an insatiable thirst for learning, I'm always seeking exciting challenges to push my limits.
+Hello! I'm João "Jo" Cassanji, a passionate Software Engineer with a love for cloud development.🚀
 
 ## My Skills 🛠️
 
@@ -45,4 +45,4 @@ I'm always open to meeting new people and collaborating on exciting projects. If
 
 If you have any questions, interesting projects, or just want to have a chat, feel free to drop me a message. Let's work together to achieve great things! 🚀
 
-[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](insert_your_linkedin_profile_url_here)
+[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)]((https://www.linkedin.com/in/joaocassanji/)https://www.linkedin.com/in/joaocassanji/)
