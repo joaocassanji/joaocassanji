@@ -29,8 +29,8 @@ Outside the professional world, you can find me:
 
 ## Let's Connect! 👥
 
-![Connect](insert_an_image_here_that_encourages_people_to_connect_with_you.jpg)
-
 I'm always open to meeting new people and collaborating on exciting projects. If you think I could be a valuable addition to your network, don't hesitate to connect with me!
 
 If you have any questions, interesting projects, or just want to have a chat, feel free to drop me a message. Let's work together to achieve great things! 🚀
+
+"If I have come this far, it's because I leaned on the shoulders of giants." - Isaac Newton
