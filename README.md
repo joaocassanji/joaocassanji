@@ -8,7 +8,6 @@ Hello! I'm João "Jo" Cassanji, from Brazil, a passionate Software Engineer with
 - ☁️ DevOps
 - 🌐 Web Development
 - 💻 Cloud Development
-- 🎨 UI/UX Designer
 - 🧠 Problem Solver
 - 🚀 Project Management
 
