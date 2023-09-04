@@ -1,5 +1,4 @@
 ## About Me
-![Profile Picture](insert_your_profile_picture_url_here.jpg)
 
 Hello! I'm João "Jo" Cassanji, from Brazil, a passionate Software Engineer with a love for cloud development.
 
@@ -21,10 +20,10 @@ Hello! I'm João "Jo" Cassanji, from Brazil, a passionate Software Engineer with
 
 Outside the professional world, you can find me:
 
-- 📚 Reading a good book.
-- 🎮 Playing games.
-- 🎣 Fishing.
-- 🎶 Enjoying a good music .
+- 📚 Reading a good book
+- 🎮 Playing games
+- 🎣 Fishing
+- 🎶 Enjoying a good music 
 
 ## Let's Connect! 👥
 
