@@ -12,8 +12,8 @@ Hello! I'm João "Jo" Cassanji, from Brazil, a passionate Software Engineer with
 
 ## Technologies🧰
 
-- 🧩 Programming Languages: Javascript, Typescript, Lua, Go
-- 📦 Frameworks: Node, React, Gin
+- 🧩 Programming Languages: Javascript, Typescript, Lua, Go, C#
+- 📦 Frameworks: Node, React, .NET
 - ☁️ Cloud Providers: AWS, Azure
 
 ## What I Love Outside of Work 🌟
